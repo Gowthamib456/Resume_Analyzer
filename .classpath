@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/HikariCP-5.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.servlet-api-6.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/json-20240303.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.33.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

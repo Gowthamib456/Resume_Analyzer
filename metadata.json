@@ -1,0 +1,5 @@
+{
+  "name": "Resume Analyzer & Career Path Advisor",
+  "description": "A comprehensive tool to analyze resumes, match skills against job requirements, and provide personalized career path recommendations with learning resources.",
+  "requestFramePermissions": []
+}

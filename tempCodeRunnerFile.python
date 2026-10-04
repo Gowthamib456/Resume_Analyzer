@@ -1,0 +1,5 @@
+# 1. Student Details
+name = input("Enter Student Name: ")
+usn = input("Enter USN: ")
+branch = input("Enter Branch: ")
+print("Student Details:", name, usn, branch)
